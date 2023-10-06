@@ -6,7 +6,6 @@ const Header = () => {
 			style={{
 				display: 'flex',
 				justifyContent: 'space-between',
-				borderStyle: 'solid',
 			}}
 		>
 			<div style={{ width: 10, height: 10, backgroundColor: 'black' }} />
