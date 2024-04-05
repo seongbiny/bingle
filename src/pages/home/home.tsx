@@ -3,6 +3,7 @@ import React from 'react';
 const Home = () => {
 	return (
 		<div
+			className=""
 			style={{
 				backgroundColor: '#6488CF',
 				width: '720pt',
